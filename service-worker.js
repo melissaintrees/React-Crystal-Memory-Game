@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/React-Crystal-Memory-Game/precache-manifest.e467e0e42eeb270d0a7871b83f110ea7.js"
+  "/React-Crystal-Memory-Game/precache-manifest.ff258b21fc8376b9a193d1634c561f3c.js"
 );
 
 workbox.clientsClaim();

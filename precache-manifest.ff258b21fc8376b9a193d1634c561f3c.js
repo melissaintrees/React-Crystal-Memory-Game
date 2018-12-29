@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/React-Crystal-Memory-Game/static/js/runtime~main.1cdd8992.js"
   },
   {
-    "revision": "54cd643326f4fd74b808",
-    "url": "/React-Crystal-Memory-Game/static/js/main.54cd6433.chunk.js"
+    "revision": "fff4685b0dd61e2f8f1b",
+    "url": "/React-Crystal-Memory-Game/static/js/main.fff4685b.chunk.js"
   },
   {
     "revision": "5cabbdc29baec113d4ea",
     "url": "/React-Crystal-Memory-Game/static/js/1.5cabbdc2.chunk.js"
   },
   {
-    "revision": "54cd643326f4fd74b808",
+    "revision": "fff4685b0dd61e2f8f1b",
     "url": "/React-Crystal-Memory-Game/static/css/main.74dc4638.chunk.css"
   },
   {
-    "revision": "b5c5b73f3a1f260e7bfc69e9208e4faf",
+    "revision": "10a3eca12b10269124b99c9c6465d2d3",
     "url": "/React-Crystal-Memory-Game/index.html"
   }
 ];
